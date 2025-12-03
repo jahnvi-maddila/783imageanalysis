@@ -1,0 +1,5048 @@
+{
+  "image": "A-D-64QFP-15B-SM.png",
+  "pins_total": 420,
+  "consistent": 2,
+  "inconsistent": 418,
+  "pins": [
+    {
+      "side": "top",
+      "box": [
+        1433,
+        177,
+        46,
+        6
+      ],
+      "area": 276,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        998,
+        176,
+        49,
+        7
+      ],
+      "area": 343,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        781,
+        176,
+        48,
+        7
+      ],
+      "area": 336,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        563,
+        176,
+        49,
+        7
+      ],
+      "area": 343,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        419,
+        176,
+        48,
+        7
+      ],
+      "area": 336,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1144,
+        175,
+        46,
+        8
+      ],
+      "area": 368,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        925,
+        175,
+        49,
+        8
+      ],
+      "area": 392,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        853,
+        175,
+        49,
+        8
+      ],
+      "area": 392,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1288,
+        174,
+        49,
+        9
+      ],
+      "area": 441,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        492,
+        174,
+        49,
+        9
+      ],
+      "area": 441,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        348,
+        174,
+        47,
+        9
+      ],
+      "area": 423,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1216,
+        163,
+        47,
+        20
+      ],
+      "area": 940,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1289,
+        161,
+        44,
+        14
+      ],
+      "area": 616,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        995,
+        161,
+        47,
+        14
+      ],
+      "area": 658,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        422,
+        161,
+        42,
+        12
+      ],
+      "area": 504,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        565,
+        160,
+        42,
+        14
+      ],
+      "area": 588,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1143,
+        159,
+        45,
+        17
+      ],
+      "area": 765,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1010,
+        159,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        928,
+        159,
+        41,
+        15
+      ],
+      "area": 615,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        855,
+        159,
+        42,
+        14
+      ],
+      "area": 588,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        708,
+        159,
+        48,
+        24
+      ],
+      "area": 1152,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        724,
+        159,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1084,
+        158,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1021,
+        158,
+        11,
+        4
+      ],
+      "area": 44,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1016,
+        158,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        580,
+        158,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1430,
+        157,
+        46,
+        18
+      ],
+      "area": 828,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1070,
+        157,
+        48,
+        26
+      ],
+      "area": 1248,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        781,
+        157,
+        45,
+        18
+      ],
+      "area": 810,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        636,
+        157,
+        50,
+        26
+      ],
+      "area": 1300,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1361,
+        156,
+        47,
+        27
+      ],
+      "area": 1269,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        878,
+        156,
+        8,
+        6
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1217,
+        155,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        668,
+        155,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        443,
+        154,
+        10,
+        7
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        348,
+        154,
+        43,
+        19
+      ],
+      "area": 817,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        956,
+        152,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        644,
+        152,
+        12,
+        9
+      ],
+      "area": 108,
+      "prob_inconsistent": 0.888,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        577,
+        152,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.962,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        932,
+        151,
+        9,
+        5
+      ],
+      "area": 45,
+      "prob_inconsistent": 0.736,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1086,
+        150,
+        11,
+        4
+      ],
+      "area": 44,
+      "prob_inconsistent": 0.613,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        572,
+        150,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.712,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        440,
+        147,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1094,
+        146,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1220,
+        145,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1010,
+        144,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        574,
+        144,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1385,
+        143,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        782,
+        143,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        719,
+        141,
+        17,
+        13
+      ],
+      "area": 221,
+      "prob_inconsistent": 0.813,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        565,
+        140,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1147,
+        138,
+        12,
+        8
+      ],
+      "area": 96,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1146,
+        134,
+        6,
+        3
+      ],
+      "area": 18,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        523,
+        129,
+        3,
+        7
+      ],
+      "area": 21,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1291,
+        128,
+        13,
+        19
+      ],
+      "area": 247,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1289,
+        128,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1000,
+        115,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        354,
+        115,
+        23,
+        34
+      ],
+      "area": 782,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        937,
+        112,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        956,
+        110,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        720,
+        109,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        877,
+        106,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        998,
+        95,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        633,
+        95,
+        32,
+        54
+      ],
+      "area": 1728,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        779,
+        92,
+        33,
+        55
+      ],
+      "area": 1815,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        434,
+        92,
+        7,
+        12
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1215,
+        88,
+        33,
+        58
+      ],
+      "area": 1914,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1373,
+        86,
+        14,
+        9
+      ],
+      "area": 126,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1420,
+        85,
+        36,
+        50
+      ],
+      "area": 1800,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        805,
+        82,
+        6,
+        8
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        488,
+        77,
+        51,
+        97
+      ],
+      "area": 4947,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        781,
+        76,
+        23,
+        17
+      ],
+      "area": 391,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        367,
+        75,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        353,
+        75,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1370,
+        74,
+        21,
+        14
+      ],
+      "area": 294,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1288,
+        74,
+        33,
+        54
+      ],
+      "area": 1782,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1067,
+        74,
+        36,
+        75
+      ],
+      "area": 2700,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        851,
+        74,
+        33,
+        44
+      ],
+      "area": 1452,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        494,
+        74,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        1141,
+        73,
+        34,
+        72
+      ],
+      "area": 2448,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        924,
+        73,
+        31,
+        41
+      ],
+      "area": 1271,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        705,
+        73,
+        33,
+        44
+      ],
+      "area": 1452,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "top",
+      "box": [
+        500,
+        73,
+        9,
+        5
+      ],
+      "area": 45,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        381,
+        1826,
+        4,
+        6
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1370,
+        1821,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1299,
+        1820,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        352,
+        1819,
+        12,
+        16
+      ],
+      "area": 192,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        852,
+        1818,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1453,
+        1817,
+        9,
+        5
+      ],
+      "area": 45,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        643,
+        1816,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1145,
+        1815,
+        6,
+        8
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1367,
+        1814,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1310,
+        1813,
+        6,
+        9
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        784,
+        1813,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        926,
+        1811,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1073,
+        1810,
+        24,
+        13
+      ],
+      "area": 312,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        431,
+        1808,
+        15,
+        11
+      ],
+      "area": 165,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1296,
+        1806,
+        14,
+        9
+      ],
+      "area": 126,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1017,
+        1806,
+        7,
+        12
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        727,
+        1806,
+        8,
+        14
+      ],
+      "area": 112,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1070,
+        1803,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        377,
+        1803,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        518,
+        1802,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1141,
+        1801,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        794,
+        1799,
+        16,
+        22
+      ],
+      "area": 352,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        854,
+        1798,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        707,
+        1798,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        934,
+        1796,
+        18,
+        25
+      ],
+      "area": 450,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        488,
+        1796,
+        11,
+        20
+      ],
+      "area": 220,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        861,
+        1795,
+        9,
+        12
+      ],
+      "area": 108,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        584,
+        1795,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        356,
+        1789,
+        7,
+        3
+      ],
+      "area": 21,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        789,
+        1788,
+        16,
+        12
+      ],
+      "area": 192,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1445,
+        1787,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        729,
+        1787,
+        6,
+        11
+      ],
+      "area": 66,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        572,
+        1787,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1294,
+        1786,
+        8,
+        6
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1233,
+        1786,
+        12,
+        23
+      ],
+      "area": 276,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        588,
+        1785,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        378,
+        1785,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1309,
+        1784,
+        6,
+        21
+      ],
+      "area": 126,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        576,
+        1783,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        944,
+        1782,
+        8,
+        12
+      ],
+      "area": 96,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1155,
+        1781,
+        15,
+        26
+      ],
+      "area": 390,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1090,
+        1781,
+        8,
+        23
+      ],
+      "area": 184,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        510,
+        1779,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        646,
+        1777,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        782,
+        1773,
+        12,
+        7
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        926,
+        1771,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1454,
+        1770,
+        5,
+        8
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1309,
+        1770,
+        5,
+        8
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        642,
+        1769,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        420,
+        1769,
+        29,
+        38
+      ],
+      "area": 1102,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1212,
+        1767,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.976,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        865,
+        1766,
+        18,
+        56
+      ],
+      "area": 1008,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        378,
+        1766,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.851,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        634,
+        1764,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 0.494,
+      "status": "consistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1289,
+        1762,
+        29,
+        13
+      ],
+      "area": 377,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        512,
+        1761,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 0.207,
+      "status": "consistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1360,
+        1759,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1141,
+        1757,
+        28,
+        17
+      ],
+      "area": 476,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1214,
+        1756,
+        8,
+        11
+      ],
+      "area": 88,
+      "prob_inconsistent": 0.751,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        706,
+        1753,
+        27,
+        18
+      ],
+      "area": 486,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        432,
+        1753,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        731,
+        1751,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1359,
+        1749,
+        30,
+        40
+      ],
+      "area": 1200,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1216,
+        1747,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1154,
+        1747,
+        6,
+        13
+      ],
+      "area": 78,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1069,
+        1747,
+        12,
+        26
+      ],
+      "area": 312,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1018,
+        1747,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        709,
+        1747,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        927,
+        1746,
+        26,
+        35
+      ],
+      "area": 910,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        656,
+        1745,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        781,
+        1744,
+        16,
+        28
+      ],
+      "area": 448,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1432,
+        1740,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1436,
+        1736,
+        25,
+        8
+      ],
+      "area": 200,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1359,
+        1736,
+        33,
+        13
+      ],
+      "area": 429,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1219,
+        1736,
+        27,
+        8
+      ],
+      "area": 216,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1290,
+        1735,
+        28,
+        10
+      ],
+      "area": 280,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        924,
+        1735,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        930,
+        1734,
+        27,
+        8
+      ],
+      "area": 216,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        563,
+        1734,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        786,
+        1733,
+        26,
+        8
+      ],
+      "area": 208,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        712,
+        1733,
+        27,
+        10
+      ],
+      "area": 270,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        644,
+        1732,
+        20,
+        8
+      ],
+      "area": 160,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        491,
+        1732,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        496,
+        1731,
+        27,
+        8
+      ],
+      "area": 216,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        425,
+        1731,
+        23,
+        9
+      ],
+      "area": 207,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1430,
+        1725,
+        38,
+        11
+      ],
+      "area": 418,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        358,
+        1723,
+        32,
+        14
+      ],
+      "area": 448,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1141,
+        1721,
+        40,
+        24
+      ],
+      "area": 960,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1466,
+        1720,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        779,
+        1720,
+        41,
+        13
+      ],
+      "area": 533,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1358,
+        1719,
+        41,
+        16
+      ],
+      "area": 656,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1031,
+        1717,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1472,
+        1713,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1441,
+        1713,
+        24,
+        11
+      ],
+      "area": 264,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1426,
+        1713,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1370,
+        1713,
+        26,
+        12
+      ],
+      "area": 312,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1288,
+        1713,
+        39,
+        22
+      ],
+      "area": 858,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1212,
+        1713,
+        40,
+        22
+      ],
+      "area": 880,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1209,
+        1713,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        1138,
+        1713,
+        50,
+        11
+      ],
+      "area": 550,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        996,
+        1713,
+        43,
+        28
+      ],
+      "area": 1204,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        965,
+        1713,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        923,
+        1713,
+        42,
+        21
+      ],
+      "area": 882,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        851,
+        1713,
+        42,
+        29
+      ],
+      "area": 1218,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        846,
+        1713,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        776,
+        1713,
+        41,
+        9
+      ],
+      "area": 369,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        704,
+        1713,
+        50,
+        20
+      ],
+      "area": 1000,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        633,
+        1713,
+        48,
+        19
+      ],
+      "area": 912,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        603,
+        1713,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        561,
+        1713,
+        44,
+        25
+      ],
+      "area": 1100,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        489,
+        1713,
+        48,
+        18
+      ],
+      "area": 864,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        444,
+        1713,
+        22,
+        7
+      ],
+      "area": 154,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        417,
+        1713,
+        43,
+        17
+      ],
+      "area": 731,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        362,
+        1713,
+        8,
+        6
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        150,
+        1508,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        122,
+        1502,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        98,
+        1502,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        50,
+        1502,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        163,
+        1490,
+        20,
+        15
+      ],
+      "area": 300,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        88,
+        1489,
+        29,
+        15
+      ],
+      "area": 435,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        102,
+        1487,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 0.609,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        52,
+        1484,
+        11,
+        6
+      ],
+      "area": 66,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        64,
+        1481,
+        18,
+        24
+      ],
+      "area": 432,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        146,
+        1480,
+        16,
+        25
+      ],
+      "area": 400,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        83,
+        1477,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        53,
+        1477,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        122,
+        1474,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        146,
+        1462,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        63,
+        1428,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        147,
+        1426,
+        10,
+        14
+      ],
+      "area": 140,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        32,
+        1419,
+        7,
+        13
+      ],
+      "area": 91,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        84,
+        1405,
+        12,
+        7
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        33,
+        1404,
+        39,
+        28
+      ],
+      "area": 1092,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        78,
+        1402,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        161,
+        1397,
+        22,
+        36
+      ],
+      "area": 792,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        171,
+        1394,
+        7,
+        12
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        159,
+        1393,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        122,
+        1388,
+        37,
+        50
+      ],
+      "area": 1850,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        106,
+        1354,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.825,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        75,
+        1351,
+        21,
+        11
+      ],
+      "area": 231,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        163,
+        1344,
+        20,
+        14
+      ],
+      "area": 280,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        71,
+        1336,
+        5,
+        8
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        180,
+        1326,
+        3,
+        6
+      ],
+      "area": 18,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        68,
+        1288,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        43,
+        1281,
+        14,
+        9
+      ],
+      "area": 126,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        139,
+        1274,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        50,
+        1273,
+        5,
+        8
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        165,
+        1261,
+        18,
+        27
+      ],
+      "area": 486,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        88,
+        1258,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        76,
+        1256,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        35,
+        1256,
+        26,
+        16
+      ],
+      "area": 416,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        170,
+        1252,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        181,
+        1202,
+        2,
+        5
+      ],
+      "area": 10,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        80,
+        1198,
+        8,
+        19
+      ],
+      "area": 152,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        60,
+        1195,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        171,
+        1180,
+        10,
+        7
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        181,
+        1156,
+        2,
+        5
+      ],
+      "area": 10,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        181,
+        1145,
+        2,
+        6
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        168,
+        1136,
+        12,
+        8
+      ],
+      "area": 96,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        37,
+        1134,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        59,
+        1133,
+        3,
+        6
+      ],
+      "area": 18,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        58,
+        1126,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        181,
+        1121,
+        2,
+        11
+      ],
+      "area": 22,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        180,
+        1115,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        35,
+        1114,
+        23,
+        31
+      ],
+      "area": 713,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        43,
+        1112,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        122,
+        1102,
+        36,
+        48
+      ],
+      "area": 1728,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        98,
+        1063,
+        15,
+        7
+      ],
+      "area": 105,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        104,
+        1059,
+        6,
+        3
+      ],
+      "area": 18,
+      "prob_inconsistent": 0.644,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        60,
+        1057,
+        8,
+        11
+      ],
+      "area": 88,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        163,
+        1056,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        169,
+        1054,
+        14,
+        20
+      ],
+      "area": 280,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        74,
+        1040,
+        21,
+        8
+      ],
+      "area": 168,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        70,
+        993,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        180,
+        988,
+        3,
+        6
+      ],
+      "area": 18,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        71,
+        987,
+        16,
+        11
+      ],
+      "area": 176,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        58,
+        983,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        34,
+        981,
+        27,
+        17
+      ],
+      "area": 459,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        164,
+        977,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        139,
+        977,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        55,
+        977,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        163,
+        970,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        47,
+        967,
+        11,
+        7
+      ],
+      "area": 77,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        95,
+        966,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        32,
+        966,
+        10,
+        15
+      ],
+      "area": 150,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        65,
+        926,
+        6,
+        3
+      ],
+      "area": 18,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        73,
+        920,
+        12,
+        9
+      ],
+      "area": 108,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        180,
+        917,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        99,
+        910,
+        10,
+        15
+      ],
+      "area": 150,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        51,
+        910,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        178,
+        902,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        78,
+        901,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        101,
+        900,
+        13,
+        10
+      ],
+      "area": 130,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        26,
+        898,
+        41,
+        31
+      ],
+      "area": 1271,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        177,
+        889,
+        6,
+        8
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        144,
+        857,
+        7,
+        4
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        177,
+        855,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        8,
+        853,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        54,
+        825,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        0,
+        825,
+        52,
+        36
+      ],
+      "area": 1872,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        177,
+        823,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        125,
+        822,
+        20,
+        34
+      ],
+      "area": 680,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        139,
+        812,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        170,
+        776,
+        6,
+        9
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        166,
+        776,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        90,
+        771,
+        9,
+        4
+      ],
+      "area": 36,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        175,
+        768,
+        8,
+        6
+      ],
+      "area": 48,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        83,
+        762,
+        20,
+        8
+      ],
+      "area": 160,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        61,
+        754,
+        15,
+        10
+      ],
+      "area": 150,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        76,
+        750,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        178,
+        748,
+        5,
+        11
+      ],
+      "area": 55,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        135,
+        715,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        144,
+        706,
+        13,
+        10
+      ],
+      "area": 130,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        179,
+        692,
+        4,
+        6
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        168,
+        685,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        167,
+        680,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        35,
+        676,
+        86,
+        33
+      ],
+      "area": 2838,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        153,
+        673,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        90,
+        634,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        165,
+        622,
+        11,
+        5
+      ],
+      "area": 55,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        177,
+        621,
+        6,
+        9
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        88,
+        606,
+        5,
+        10
+      ],
+      "area": 50,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        179,
+        605,
+        4,
+        13
+      ],
+      "area": 52,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        35,
+        605,
+        85,
+        31
+      ],
+      "area": 2635,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        115,
+        604,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        46,
+        603,
+        15,
+        11
+      ],
+      "area": 165,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        168,
+        556,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        61,
+        555,
+        6,
+        9
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        162,
+        548,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        176,
+        543,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        34,
+        541,
+        43,
+        20
+      ],
+      "area": 860,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        116,
+        532,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        70,
+        532,
+        11,
+        4
+      ],
+      "area": 44,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        71,
+        531,
+        49,
+        34
+      ],
+      "area": 1666,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        34,
+        530,
+        35,
+        9
+      ],
+      "area": 315,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        146,
+        522,
+        11,
+        8
+      ],
+      "area": 88,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        141,
+        493,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        64,
+        458,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        35,
+        457,
+        84,
+        35
+      ],
+      "area": 2940,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        117,
+        415,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        164,
+        404,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        57,
+        395,
+        15,
+        10
+      ],
+      "area": 150,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        54,
+        386,
+        13,
+        5
+      ],
+      "area": 65,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        69,
+        385,
+        44,
+        32
+      ],
+      "area": 1408,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        177,
+        382,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        123,
+        381,
+        60,
+        45
+      ],
+      "area": 2700,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        157,
+        380,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1709,
+        1503,
+        6,
+        9
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1704,
+        1500,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1722,
+        1481,
+        53,
+        34
+      ],
+      "area": 1802,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1468,
+        21,
+        44
+      ],
+      "area": 924,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1727,
+        1437,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1700,
+        1432,
+        4,
+        6
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1716,
+        1430,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1721,
+        1410,
+        38,
+        15
+      ],
+      "area": 570,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1397,
+        19,
+        48
+      ],
+      "area": 912,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1724,
+        1367,
+        7,
+        3
+      ],
+      "area": 21,
+      "prob_inconsistent": 0.785,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1734,
+        1348,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1326,
+        20,
+        47
+      ],
+      "area": 940,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1728,
+        1292,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1716,
+        1289,
+        10,
+        6
+      ],
+      "area": 60,
+      "prob_inconsistent": 0.964,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1711,
+        1284,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1717,
+        1280,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1724,
+        1263,
+        49,
+        35
+      ],
+      "area": 1715,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1252,
+        19,
+        48
+      ],
+      "area": 912,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1753,
+        1220,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1727,
+        1218,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 0.989,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1704,
+        1193,
+        19,
+        28
+      ],
+      "area": 532,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1728,
+        1189,
+        45,
+        34
+      ],
+      "area": 1530,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1722,
+        1147,
+        6,
+        3
+      ],
+      "area": 18,
+      "prob_inconsistent": 0.798,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1732,
+        1135,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1731,
+        1134,
+        26,
+        17
+      ],
+      "area": 442,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1701,
+        1123,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1698,
+        1117,
+        74,
+        33
+      ],
+      "area": 2442,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1106,
+        20,
+        51
+      ],
+      "area": 1020,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1725,
+        1075,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 0.811,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1716,
+        1066,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1701,
+        1064,
+        13,
+        10
+      ],
+      "area": 130,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1731,
+        1059,
+        27,
+        19
+      ],
+      "area": 513,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1755,
+        1058,
+        3,
+        7
+      ],
+      "area": 21,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1768,
+        1056,
+        5,
+        7
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1757,
+        1050,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1702,
+        1046,
+        31,
+        18
+      ],
+      "area": 558,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1761,
+        1045,
+        8,
+        11
+      ],
+      "area": 88,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1746,
+        1045,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        1034,
+        20,
+        48
+      ],
+      "area": 960,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1709,
+        992,
+        15,
+        11
+      ],
+      "area": 165,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1697,
+        980,
+        11,
+        6
+      ],
+      "area": 66,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1707,
+        973,
+        12,
+        17
+      ],
+      "area": 204,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1762,
+        972,
+        9,
+        6
+      ],
+      "area": 54,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1731,
+        972,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        961,
+        19,
+        48
+      ],
+      "area": 912,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1734,
+        923,
+        3,
+        7
+      ],
+      "area": 21,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1744,
+        922,
+        15,
+        7
+      ],
+      "area": 105,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1747,
+        911,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1700,
+        908,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1707,
+        901,
+        11,
+        8
+      ],
+      "area": 88,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1755,
+        900,
+        20,
+        29
+      ],
+      "area": 580,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1741,
+        900,
+        14,
+        7
+      ],
+      "area": 98,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1724,
+        899,
+        16,
+        8
+      ],
+      "area": 128,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        887,
+        26,
+        50
+      ],
+      "area": 1300,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1772,
+        837,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1727,
+        837,
+        5,
+        8
+      ],
+      "area": 40,
+      "prob_inconsistent": 0.85,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1711,
+        834,
+        7,
+        10
+      ],
+      "area": 70,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1697,
+        827,
+        17,
+        12
+      ],
+      "area": 204,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        814,
+        21,
+        49
+      ],
+      "area": 1029,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1731,
+        783,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1700,
+        770,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1712,
+        768,
+        8,
+        5
+      ],
+      "area": 40,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1705,
+        762,
+        6,
+        16
+      ],
+      "area": 96,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1752,
+        761,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1713,
+        761,
+        5,
+        3
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1717,
+        751,
+        39,
+        14
+      ],
+      "area": 546,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        742,
+        26,
+        48
+      ],
+      "area": 1248,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1698,
+        701,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1701,
+        696,
+        19,
+        11
+      ],
+      "area": 209,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        669,
+        21,
+        48
+      ],
+      "area": 1008,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1772,
+        620,
+        3,
+        5
+      ],
+      "area": 15,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1767,
+        616,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1723,
+        607,
+        19,
+        6
+      ],
+      "area": 114,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1715,
+        606,
+        7,
+        13
+      ],
+      "area": 91,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        596,
+        25,
+        48
+      ],
+      "area": 1200,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1758,
+        554,
+        17,
+        11
+      ],
+      "area": 187,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1733,
+        534,
+        22,
+        10
+      ],
+      "area": 220,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1703,
+        534,
+        54,
+        30
+      ],
+      "area": 1620,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1758,
+        532,
+        14,
+        20
+      ],
+      "area": 280,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        523,
+        20,
+        49
+      ],
+      "area": 980,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1700,
+        460,
+        60,
+        31
+      ],
+      "area": 1860,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1762,
+        459,
+        14,
+        33
+      ],
+      "area": 462,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        451,
+        24,
+        48
+      ],
+      "area": 1152,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1771,
+        410,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1700,
+        409,
+        4,
+        3
+      ],
+      "area": 12,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1752,
+        399,
+        7,
+        13
+      ],
+      "area": 91,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1714,
+        397,
+        6,
+        4
+      ],
+      "area": 24,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1715,
+        386,
+        58,
+        34
+      ],
+      "area": 1972,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        380,
+        22,
+        47
+      ],
+      "area": 1034,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        1677,
+        379,
+        7,
+        5
+      ],
+      "area": 35,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    }
+  ]
+}

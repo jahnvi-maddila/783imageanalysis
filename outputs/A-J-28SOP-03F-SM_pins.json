@@ -1,0 +1,128 @@
+{
+  "image": "A-J-28SOP-03F-SM.png",
+  "pins_total": 10,
+  "consistent": 4,
+  "inconsistent": 6,
+  "pins": [
+    {
+      "side": "top",
+      "box": [
+        241,
+        33,
+        7,
+        2
+      ],
+      "area": 14,
+      "prob_inconsistent": 0.0,
+      "status": "consistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        273,
+        351,
+        6,
+        14
+      ],
+      "area": 84,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        237,
+        350,
+        3,
+        4
+      ],
+      "area": 12,
+      "prob_inconsistent": 0.797,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        290,
+        333,
+        13,
+        9
+      ],
+      "area": 117,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "bottom",
+      "box": [
+        231,
+        333,
+        48,
+        34
+      ],
+      "area": 1632,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        0,
+        280,
+        3,
+        7
+      ],
+      "area": 21,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        27,
+        135,
+        8,
+        14
+      ],
+      "area": 112,
+      "prob_inconsistent": 1.0,
+      "status": "inconsistent"
+    },
+    {
+      "side": "left",
+      "box": [
+        6,
+        83,
+        4,
+        7
+      ],
+      "area": 28,
+      "prob_inconsistent": 0.0,
+      "status": "consistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        358,
+        271,
+        7,
+        13
+      ],
+      "area": 91,
+      "prob_inconsistent": 0.117,
+      "status": "consistent"
+    },
+    {
+      "side": "right",
+      "box": [
+        358,
+        239,
+        7,
+        17
+      ],
+      "area": 119,
+      "prob_inconsistent": 0.117,
+      "status": "consistent"
+    }
+  ]
+}
