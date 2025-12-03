@@ -1,4 +1,1 @@
-opencv-python
-numpy
-easyocr
-pytesseract
+ÿþ
