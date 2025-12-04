@@ -1,0 +1,18 @@
+# Dataset configuration for IC Pin Detection
+# This file defines the paths to training and validation data, as well as class names
+
+# Path to training images
+train: 783-Pin-Detection/datasets/aug-ic-dataset/images/train
+
+# Path to validation images
+val: 783-Pin-Detection/datasets/aug-ic-dataset/images/val
+
+# Number of classes
+nc: 4
+
+# Class names
+names:
+  0: bent
+  1: okay
+  2: package
+  3: text

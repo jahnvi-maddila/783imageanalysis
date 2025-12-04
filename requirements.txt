@@ -1,4 +1,25 @@
-opencv-python
-numpy
-easyocr
-pytesseract
+# Requirements for IC Pin Detection Model Training
+# Install with: pip install -r requirements.txt
+
+# Core ML framework
+ultralytics>=8.0.0
+
+# Computer vision
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Scientific computing
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Data handling
+pyyaml>=6.0
+pandas>=2.0.0
+
+# Deep learning (if needed separately)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Optional: for Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
