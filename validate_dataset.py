@@ -63,7 +63,7 @@ def validate_dataset():
         errors.append(f"Training images path does not exist: {train_path}")
         print(f"❌ Training images path not found: {train_path}")
     else:
-        train_images = list(train_path.glob("*.[jp][pn]g"))
+        train_images = list(train_path.glob("*.jpg")) + list(train_path.glob("*.jpeg")) + list(train_path.glob("*.png"))
         print(f"✓ Training images path exists: {train_path}")
         print(f"  Found {len(train_images)} training images")
         
@@ -75,7 +75,7 @@ def validate_dataset():
         errors.append(f"Validation images path does not exist: {val_path}")
         print(f"❌ Validation images path not found: {val_path}")
     else:
-        val_images = list(val_path.glob("*.[jp][pn]g"))
+        val_images = list(val_path.glob("*.jpg")) + list(val_path.glob("*.jpeg")) + list(val_path.glob("*.png"))
         print(f"✓ Validation images path exists: {val_path}")
         print(f"  Found {len(val_images)} validation images")
         
